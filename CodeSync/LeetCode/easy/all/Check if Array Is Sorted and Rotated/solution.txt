@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Check if Array Is Sorted and Rotated
- * URL: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+ * URL: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/submissions/2144880433/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array
  * Runtime: 0 ms
- * Memory: N/A
- * Synced: 2026-09-17T15:47:51.965Z
+ * Memory: 11.33 MB
+ * Synced: 2026-09-17T15:48:38.774Z
  */
 
 class Solution {
