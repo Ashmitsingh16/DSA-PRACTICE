@@ -7,7 +7,7 @@
 - Runtime: 0 ms
 - Memory: 11.33 MB
 - Problem URL: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/submissions/2144880433/
-- Synced: 2026-09-17T16:28:24.338Z
+- Synced: 2026-09-17T16:29:24.339Z
 
 ## Problem Description
 
