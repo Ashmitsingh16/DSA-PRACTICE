@@ -1,0 +1,25 @@
+/*
+ * Platform: LeetCode
+ * Problem: Check if Array Is Sorted and Rotated
+ * URL: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+ * Language: Problem List
+ * Difficulty: Easy
+ * Topics: Array
+ * Runtime: 0 ms
+ * Memory: N/A
+ * Synced: 2026-09-17T15:47:51.965Z
+ */
+
+class Solution {
+public:
+    bool check(vector<int>& nums) {
+        int count = 0;
+
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] > nums[(i + 1) % nums.size()])
+                count++;
+        }
+
+        return count <= 1;
+    }
+};
