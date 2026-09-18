@@ -1,3 +1,8 @@
 {
-  "leetcode:check-if-array-is-sorted-and-rotated": []
+  "leetcode:check-if-array-is-sorted-and-rotated": [],
+  "leetcode:two-sum-ii-input-array-is-sorted": [
+    "NeetCode150",
+    "TopInterview150",
+    "StriverA2Z"
+  ]
 }
