@@ -1,0 +1,35 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: Segregate 0s and 1s
+ * URL: https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1
+ * Language: C++ (17)
+ * Difficulty: Unknown
+ * Topics: Expected Complexities, Company Tags PaytmGoldman SachsFab.com, Company Tags, Paytm, Goldman Sachs, Fab.com, Topic Tags, Arrays
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-09-19T05:44:21.762Z
+ */
+
+class Solution {
+  public:
+    void segregate0and1(vector<int> &arr) {
+        int i = 0;
+        int j = arr.size()-1;
+        
+        while(i<j){
+            if(arr[i]==0){
+                i++;
+            }
+            else if(arr[j]==1){
+                j--;
+            }
+            else{
+                swap(arr[i],arr[j]);
+                    i++;
+                    j--;
+                
+            }
+        }
+        
+    }
+};
