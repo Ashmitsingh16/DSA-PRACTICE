@@ -7,7 +7,7 @@
  * Topics: Array, Two Pointers, Binary Search
  * Runtime: 0 ms
  * Memory: 25.73 MB
- * Synced: 2026-09-19T04:09:17.546Z
+ * Synced: 2026-09-19T04:10:08.547Z
  */
 
 return {left + 1, right + 1};
