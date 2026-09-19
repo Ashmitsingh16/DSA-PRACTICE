@@ -5,9 +5,9 @@
 - Difficulty: Medium
 - Topics: Array, Two Pointers, Binary Search
 - Runtime: 0 ms
-- Memory: 25.73 MB
-- Problem URL: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2145876748/
-- Synced: 2026-09-19T04:10:08.547Z
+- Memory: N/A
+- Problem URL: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+- Synced: 2026-09-19T05:27:36.547Z
 
 ## Problem Description
 
