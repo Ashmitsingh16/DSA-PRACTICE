@@ -7,7 +7,7 @@
  * Topics: Expected Complexities, Company Tags PaytmGoldman SachsFab.com, Company Tags, Paytm, Goldman Sachs, Fab.com, Topic Tags, Arrays
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-19T05:44:21.762Z
+ * Synced: 2026-09-19T05:46:39.569Z
  */
 
 class Solution {
