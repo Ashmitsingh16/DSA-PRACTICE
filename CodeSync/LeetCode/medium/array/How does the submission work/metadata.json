@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-09-19T04:10:08.547Z",
+  "submissionTimestamp": "2026-09-19T05:29:35.480Z",
   "runtime": "0 ms",
-  "memoryUsage": "25.73 MB",
+  "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
     "Array",
@@ -11,6 +11,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "How does the submission work",
-  "problemUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2145876748/",
-  "submissionId": "6brpru"
+  "problemUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+  "submissionId": "3zvcmm"
 }
