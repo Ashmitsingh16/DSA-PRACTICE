@@ -1,14 +1,14 @@
 {
-  "submissionTimestamp": "2026-09-19T06:25:01.778Z",
-  "runtime": "N/A",
-  "memoryUsage": "N/A",
-  "difficulty": "Easy",
+  "submissionTimestamp": "2026-09-19T06:27:59.113Z",
+  "runtime": "0 ms",
+  "memoryUsage": "16.25 MB",
+  "difficulty": "Unknown",
   "tags": [
-    "Linked List"
+    "Uncategorized"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/",
-  "submissionId": "d3ownr"
+  "problemUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/2146370388/",
+  "submissionId": "r1sj0l"
 }
