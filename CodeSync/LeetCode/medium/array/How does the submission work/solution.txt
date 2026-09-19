@@ -1,25 +1,29 @@
 /*
  * Platform: LeetCode
  * Problem: How does the submission work
- * URL: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2145876748/
+ * URL: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
  * Language: Problem List
  * Difficulty: Medium
  * Topics: Array, Two Pointers, Binary Search
  * Runtime: 0 ms
- * Memory: 25.73 MB
- * Synced: 2026-09-19T04:10:08.547Z
+ * Memory: N/A
+ * Synced: 2026-09-19T05:27:36.547Z
  */
 
-return {left + 1, right + 1};
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& numbers, int target) {
+        int left = 0;
+        int right = numbers.size() - 1;
+
+        while (left < right) {
+            int sum = numbers[left] + numbers[right];
+
+            if (sum == target) {
+                return {left + 1, right + 1};
             }
             else if (sum < target) {
                 left++;
             }
             else {
                 right--;
-            }
-        }
-
-        return {};
-    }
-};
