@@ -5,25 +5,24 @@
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Linked List
- * Runtime: 0 ms
+ * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-19T06:14:34.889Z
+ * Synced: 2026-09-20T11:31:33.131Z
  */
 
-ListNode* deleteDuplicates(ListNode* head) {
-        ListNode* curr = head;
-
-        while (curr != nullptr && curr->next != nullptr) {
-
-            if (curr->val == curr->next->val) {
-                curr->next = curr->next->next;
-            }
-            else {
-public:
-class Solution {
- */
- * };
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode() : val(0), next(nullptr) {}
+*     int val;
  *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* deleteDuplicates(ListNode* head) {
+        
+    }
+};
+ * struct ListNode {
+ * Definition for singly-linked list.
+/**
