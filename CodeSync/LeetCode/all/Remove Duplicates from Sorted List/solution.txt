@@ -1,28 +1,35 @@
 /*
  * Platform: LeetCode
  * Problem: Remove Duplicates from Sorted List
- * URL: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+ * URL: https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/2147632640/
  * Language: Problem List
- * Difficulty: Easy
- * Topics: Linked List
- * Runtime: N/A
- * Memory: N/A
- * Synced: 2026-09-20T11:40:23.092Z
+ * Difficulty: Unknown
+ * Topics: Uncategorized
+ * Runtime: 0 ms
+ * Memory: 16.19 MB
+ * Synced: 2026-09-20T11:41:12.566Z
  */
 
-*     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
-class Solution {
-public:
-    ListNode* deleteDuplicates(ListNode* head) {
-        
-    }
-};
- * struct ListNode {
- * Definition for singly-linked list.
-/**
+1class Solution {
+2public:
+3    ListNode* deleteDuplicates(ListNode* head) {
+4
+5        ListNode* officer = head;
+6        ListNode* unique = head;
+7
+8        while (officer != NULL) {
+9
+10            ListNode* cm = officer->next;
+11
+12            if (cm != NULL && officer->val == cm->val) {
+13                officer->next = cm->next;
+14            }
+15            else {
+16                unique = officer;
+17                officer = officer->next;
+18            }
+19        }
+20
+21        return head;
+22    }
+23};
