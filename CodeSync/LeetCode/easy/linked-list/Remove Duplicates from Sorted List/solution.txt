@@ -7,7 +7,7 @@
  * Topics: Linked List
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-20T11:31:33.131Z
+ * Synced: 2026-09-20T11:40:23.092Z
  */
 
 *     int val;
