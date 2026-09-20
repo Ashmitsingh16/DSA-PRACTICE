@@ -5,9 +5,9 @@
 - Difficulty: Unknown
 - Topics: Uncategorized
 - Runtime: 0 ms
-- Memory: 16.25 MB
-- Problem URL: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
-- Synced: 2026-09-20T11:30:25.121Z
+- Memory: 16.19 MB
+- Problem URL: https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/2147632640/
+- Synced: 2026-09-20T11:41:12.566Z
 
 ## Problem Description
 
