@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-09-21T15:04:18.765Z",
+  "submissionTimestamp": "2026-09-21T15:05:07.763Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
@@ -9,6 +9,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Remove Duplicates from Sorted List",
-  "problemUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/",
+  "problemUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
   "submissionId": "5iugs4"
 }
