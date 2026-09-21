@@ -7,22 +7,23 @@
  * Topics: Linked List
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-19T06:25:01.778Z
+ * Synced: 2026-09-21T15:01:54.244Z
  */
 
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        
-    }
-};
+
+        ListNode* officer = head;
+        ListNode* unique = head;
+
+        while (officer != NULL) {
+
+            ListNode* cm = officer->next;
+
+            if (cm != NULL && officer->val == cm->val) {
+                officer->next = cm->next;
+            }
+            else {
+                unique = officer;
+                officer = officer->next;
