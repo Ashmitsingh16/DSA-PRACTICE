@@ -7,7 +7,7 @@
  * Topics: Linked List
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-21T18:11:48.284Z
+ * Synced: 2026-09-21T18:12:37.631Z
  */
 
 *     ListNode() : val(0), next(nullptr) {}
