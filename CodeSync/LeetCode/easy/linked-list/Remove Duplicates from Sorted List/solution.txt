@@ -7,7 +7,7 @@
  * Topics: Linked List
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-21T15:13:12.180Z
+ * Synced: 2026-09-21T15:13:59.646Z
  */
 
 *     ListNode() : val(0), next(nullptr) {}
@@ -19,6 +19,9 @@ class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
         ListNode prev = head;
+        ListNode temp = prev.next;
+        while(temp!=null){
+            
+        }
     }
-        ListNode temp = 
 };
