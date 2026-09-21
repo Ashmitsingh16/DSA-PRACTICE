@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-09-20T06:17:00.568Z",
+  "submissionTimestamp": "2026-09-21T06:26:25.710Z",
   "runtime": "0 ms",
-  "memoryUsage": "16.25 MB",
+  "memoryUsage": "16.19 MB",
   "difficulty": "Unknown",
   "tags": [
     "Uncategorized"
@@ -9,6 +9,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/2146370388/",
-  "submissionId": "q8kj19"
+  "problemUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/2147632640/",
+  "submissionId": "g1djiv"
 }
