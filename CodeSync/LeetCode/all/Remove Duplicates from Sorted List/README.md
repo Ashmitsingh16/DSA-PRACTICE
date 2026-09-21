@@ -7,7 +7,7 @@
 - Runtime: 0 ms
 - Memory: 16.19 MB
 - Problem URL: https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/2147632640/
-- Synced: 2026-09-21T06:27:26.401Z
+- Synced: 2026-09-21T06:28:25.044Z
 
 ## Problem Description
 
