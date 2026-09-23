@@ -1,0 +1,25 @@
+/*
+ * Platform: LeetCode
+ * Problem: Squares of a Sorted Array
+ * URL: https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2151182122/
+ * Language: Problem List
+ * Difficulty: Easy
+ * Topics: Array, Two Pointers, Sorting
+ * Runtime: 0 ms
+ * Memory: 30.08 MB
+ * Synced: 2026-09-23T17:22:26.218Z
+ */
+
+class Solution {
+public:
+    vector<int> sortedSquares(vector<int>& nums) {
+
+        for (int i = 0; i < nums.size(); i++) {
+            nums[i] = nums[i] * nums[i];
+        }
+
+        sort(nums.begin(), nums.end());
+
+        return nums;
+    }
+};
