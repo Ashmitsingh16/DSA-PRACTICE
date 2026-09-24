@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-09-24T17:42:24.761Z",
+  "submissionTimestamp": "2026-09-24T17:43:09.972Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
@@ -11,6 +11,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "3Sum",
-  "problemUrl": "https://leetcode.com/problems/3sum/description/",
-  "submissionId": "pg73rx"
+  "problemUrl": "https://leetcode.com/problems/3sum/",
+  "submissionId": "dfjopp"
 }
