@@ -1,28 +1,28 @@
 /*
  * Platform: LeetCode
  * Problem: 3Sum
- * URL: https://leetcode.com/problems/3sum/
+ * URL: https://leetcode.com/problems/3sum/submissions/2152289545/
  * Language: Problem List
  * Difficulty: Medium
  * Topics: Array, Two Pointers, Sorting
- * Runtime: N/A
- * Memory: N/A
- * Synced: 2026-09-24T17:43:09.972Z
+ * Runtime: 0 ms
+ * Memory: 29.00 MB
+ * Synced: 2026-09-24T17:43:57.760Z
  */
 
 while (left < right) {
 
-                int sum = nums[i] + nums[left] + nums[right];
+                continue;
 
-                if (sum == 0) {
-                    ans.push_back({nums[i], nums[left], nums[right]});
+            int left = i + 1;
+            int right = nums.size() - 1;
 
-                    left++;
-                    right--;
+        for (int i = 0; i < nums.size() - 2; i++) {
 
-                    // Skip duplicates
-                    while (left < right && nums[left] == nums[left - 1])
-                        left++;
+            if (i > 0 && nums[i] == nums[i - 1])
+        vector<vector<int>> ans;
+        sort(nums.begin(), nums.end());
 
-                    while (left < right && nums[right] == nums[right + 1])
-                        right--;
+class Solution {
+public:
+    vector<vector<int>> threeSum(vector<int>& nums) {
