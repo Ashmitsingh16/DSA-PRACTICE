@@ -9,5 +9,16 @@
     "GFG160"
   ],
   "leetcode:remove-duplicates-from-sorted-list": [],
-  "leetcode:squares-of-a-sorted-array": []
+  "leetcode:squares-of-a-sorted-array": [],
+  "leetcode:3sum": [
+    "Blind75",
+    "Grind75",
+    "Grind169",
+    "NeetCode150",
+    "TopInterview150",
+    "Top100Liked",
+    "StriverA2Z",
+    "LoveBabbar450",
+    "StriverSDE"
+  ]
 }
