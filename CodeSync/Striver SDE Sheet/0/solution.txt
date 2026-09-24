@@ -1,0 +1,18 @@
+/*
+ * Platform: LeetCode
+ * Problem: 0
+ * URL: https://leetcode.com/problems/3sum/description/
+ * Language: Problem List
+ * Difficulty: Medium
+ * Topics: Array, Two Pointers, Sorting
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-09-24T17:40:51.381Z
+ */
+
+class Solution {
+public:
+    vector<vector<int>> threeSum(vector<int>& nums) {
+        
+    }
+};
