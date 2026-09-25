@@ -4,10 +4,10 @@
 - Language: Problem List
 - Difficulty: Medium
 - Topics: Array, Two Pointers, Sorting
-- Runtime: N/A
-- Memory: N/A
-- Problem URL: https://leetcode.com/problems/3sum/
-- Synced: 2026-09-24T17:43:09.972Z
+- Runtime: 0 ms
+- Memory: 29.00 MB
+- Problem URL: https://leetcode.com/problems/3sum/submissions/2152289545/
+- Synced: 2026-09-24T17:45:32.758Z
 
 ## Problem Description
 
