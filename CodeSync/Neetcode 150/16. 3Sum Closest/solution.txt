@@ -1,0 +1,18 @@
+/*
+ * Platform: LeetCode
+ * Problem: 16. 3Sum Closest
+ * URL: https://leetcode.com/problems/3sum-closest/description/
+ * Language: Problem List
+ * Difficulty: Medium
+ * Topics: Array, Two Pointers, Sorting
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-09-25T16:58:26.374Z
+ */
+
+class Solution {
+public:
+    int threeSumClosest(vector<int>& nums, int target) {
+        
+    }
+};
