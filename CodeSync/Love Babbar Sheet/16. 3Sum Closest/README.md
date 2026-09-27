@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/3sum-closest/description/
-- Synced: 2026-09-25T16:58:26.374Z
+- Synced: 2026-09-26T15:28:00.332Z
 
 ## Problem Description
 
