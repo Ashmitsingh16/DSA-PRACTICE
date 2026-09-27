@@ -1,28 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+ * URL: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
  * Language: Problem List
  * Difficulty: Easy
- * Topics: Linked List
+ * Topics: Array, Two Pointers
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-26T15:27:42.185Z
+ * Synced: 2026-09-27T15:09:49.926Z
  */
 
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
-    ListNode* deleteDuplicates(ListNode* head) {
-        ListNode prev = head;
-        ListNode temp = prev.next;
-        while(temp!=null){
+    int removeDuplicates(vector<int>& nums) {
+        
+    }
+};
