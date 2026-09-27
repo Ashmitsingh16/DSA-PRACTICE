@@ -1,25 +1,28 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/squares-of-a-sorted-array/description/
+ * URL: https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
  * Language: Problem List
  * Difficulty: Easy
- * Topics: Array, Two Pointers, Sorting
+ * Topics: Linked List
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-23T17:21:36.976Z
+ * Synced: 2026-09-26T15:27:42.185Z
  */
 
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
-    vector<int> sortedSquares(vector<int>& nums) {
-
-        for (int i = 0; i < nums.size(); i++) {
-            nums[i] = nums[i] * nums[i];
-        }
-
-        sort(nums.begin(), nums.end());
-
-        return nums;
-    }
-};
+    ListNode* deleteDuplicates(ListNode* head) {
+        ListNode prev = head;
+        ListNode temp = prev.next;
+        while(temp!=null){
