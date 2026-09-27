@@ -2,17 +2,17 @@
 
 - Platform: LeetCode
 - Language: Problem List
-- Difficulty: Medium
-- Topics: Array, Two Pointers, Sorting
+- Difficulty: Easy
+- Topics: Linked List
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/3sum-closest/description/
-- Synced: 2026-09-25T16:57:24.739Z
+- Problem URL: https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+- Synced: 2026-09-26T15:27:42.185Z
 
 ## Problem Description
 
-You are given an integer array nums of length n and an integer target. Find three integers at distinct indices in nums such that the sum is closest to target. Return the sum of the three integers. You may assume that each input would have exactly one solution. Example 1: Input: nums = [-1,2,1,-4], target = 1 Output: 2 Explanation: The sum that is closest to the target is 2. (-1 + 2 + 1 = 2). Example 2: Input: nums = [0,0,0], target = 1 Output: 0 Explanation: The sum that is closest to the target is 0. (0 + 0 + 0 = 0). Constraints: 3 <= nums.length <= 500 -1000 <= nums[i] <= 1000 -104 <= target <= 104
+Given the head of a sorted linked list, delete all duplicates such that each element appears only once. Return the linked list sorted as well. Example 1: Input: head = [1,1,2] Output: [1,2] Example 2: Input: head = [1,1,2,3,3] Output: [1,2,3] Constraints: The number of nodes in the list is in the range [0, 300]. -100 <= Node.val <= 100 The list is guaranteed to be sorted in ascending order.
 
 ## Explanation
 
-This solution was accepted on LeetCode using Problem List. The detected topics are Array, Two Pointers, Sorting. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using Problem List. The detected topics are Linked List. Review the synced source file for the implementation details.
