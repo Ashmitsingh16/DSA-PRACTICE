@@ -1,16 +1,14 @@
 {
-  "submissionTimestamp": "2026-09-23T17:21:36.976Z",
+  "submissionTimestamp": "2026-09-26T15:27:42.185Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
-    "Array",
-    "Two Pointers",
-    "Sorting"
+    "Linked List"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/description/",
-  "submissionId": "fzxfdk"
+  "problemUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/",
+  "submissionId": "4bsvcz"
 }
