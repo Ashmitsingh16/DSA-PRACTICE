@@ -1,18 +1,15 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/3sum/description/
+ * URL: https://leetcode.com/problems/3sum-closest/description/
  * Language: Problem List
  * Difficulty: Medium
  * Topics: Array, Two Pointers, Sorting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-24T17:40:51.381Z
+ * Synced: 2026-09-25T16:57:24.739Z
  */
 
-class Solution {
-public:
-    vector<vector<int>> threeSum(vector<int>& nums) {
-        
-    }
-};
+Input: nums = [-1,2,1,-4], target = 1
+Output: 2
+Explanation: The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
