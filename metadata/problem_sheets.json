@@ -32,5 +32,6 @@
     "LoveBabbar450",
     "StriverSDE"
   ],
-  "leetcode:remove-duplicates-from-sorted-array": []
+  "leetcode:remove-duplicates-from-sorted-array": [],
+  "leetcode:remove-duplicates-from-sorted-array-ii": []
 }
