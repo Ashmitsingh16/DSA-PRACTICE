@@ -1,15 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/3sum-closest/description/
+ * URL: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/
  * Language: Problem List
  * Difficulty: Medium
- * Topics: Array, Two Pointers, Sorting
+ * Topics: Array, Two Pointers
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-25T16:57:24.739Z
+ * Synced: 2026-09-28T15:02:41.476Z
  */
 
-Input: nums = [-1,2,1,-4], target = 1
-Output: 2
-Explanation: The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+        
+    }
+};
