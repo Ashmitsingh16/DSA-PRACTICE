@@ -1,15 +1,16 @@
 {
-  "submissionTimestamp": "2026-09-28T15:02:41.476Z",
+  "submissionTimestamp": "2026-09-28T15:04:30.010Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
     "Array",
-    "Two Pointers"
+    "Two Pointers",
+    "Binary Search"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/",
-  "submissionId": "eb175a"
+  "problemUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/",
+  "submissionId": "q2cg7j"
 }
