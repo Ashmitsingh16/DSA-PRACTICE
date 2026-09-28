@@ -1,8 +1,8 @@
 {
-  "submissionTimestamp": "2026-09-27T15:09:49.926Z",
+  "submissionTimestamp": "2026-09-28T15:02:41.476Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Easy",
+  "difficulty": "Medium",
   "tags": [
     "Array",
     "Two Pointers"
@@ -10,6 +10,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/",
+  "problemUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/",
   "submissionId": "eb175a"
 }
