@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-09-28T15:03:32.582Z",
+  "submissionTimestamp": "2026-09-28T15:04:26.270Z",
   "runtime": "0 ms",
-  "memoryUsage": "N/A",
+  "memoryUsage": "19.42 MB",
   "difficulty": "Medium",
   "tags": [
     "Array",
@@ -10,6 +10,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "I Am Coooked !!",
-  "problemUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+  "problemUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/2156104158/",
   "submissionId": "qxi8fr"
 }
