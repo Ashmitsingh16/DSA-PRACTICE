@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: 4Sum
- * URL: https://leetcode.com/problems/4sum/
+ * URL: https://leetcode.com/problems/4sum/submissions/2158299523/
  * Language: Problem List
  * Difficulty: Medium
  * Topics: Array, Two Pointers, Sorting
  * Runtime: 0 ms
- * Memory: N/A
- * Synced: 2026-09-30T15:24:06.334Z
+ * Memory: 17.29 MB
+ * Synced: 2026-09-30T15:24:54.884Z
  */
 
 while (left < right &&
