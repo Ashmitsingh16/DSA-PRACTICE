@@ -33,5 +33,10 @@
     "StriverSDE"
   ],
   "leetcode:remove-duplicates-from-sorted-array": [],
-  "leetcode:remove-duplicates-from-sorted-array-ii": []
+  "leetcode:remove-duplicates-from-sorted-array-ii": [],
+  "leetcode:4sum": [
+    "StriverSDE",
+    "StriverA2Z",
+    "AlgoMaster300"
+  ]
 }
