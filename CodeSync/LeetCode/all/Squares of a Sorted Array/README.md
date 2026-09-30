@@ -7,7 +7,7 @@
 - Runtime: 0 ms
 - Memory: 30.22 MB
 - Problem URL: https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2158297609/
-- Synced: 2026-09-30T15:22:48.636Z
+- Synced: 2026-09-30T15:23:36.724Z
 
 ## Problem Description
 
