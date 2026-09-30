@@ -1,15 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/3sum-closest/description/
+ * URL: https://leetcode.com/problems/4sum/description/
  * Language: Problem List
  * Difficulty: Medium
  * Topics: Array, Two Pointers, Sorting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-25T16:57:24.739Z
+ * Synced: 2026-09-30T15:23:05.126Z
  */
 
-Input: nums = [-1,2,1,-4], target = 1
-Output: 2
-Explanation: The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
+class Solution {
+public:
+    vector<vector<int>> fourSum(vector<int>& nums, int target) {
+        
+    }
+};
