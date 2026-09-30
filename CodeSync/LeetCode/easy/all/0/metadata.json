@@ -1,15 +1,16 @@
 {
-  "submissionTimestamp": "2026-09-27T15:09:49.926Z",
+  "submissionTimestamp": "2026-09-30T15:21:17.749Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
     "Array",
-    "Two Pointers"
+    "Two Pointers",
+    "Sorting"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/",
-  "submissionId": "eb175a"
+  "problemUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/description/",
+  "submissionId": "fzxfdk"
 }
