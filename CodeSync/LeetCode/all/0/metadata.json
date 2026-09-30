@@ -1,8 +1,8 @@
 {
-  "submissionTimestamp": "2026-09-30T15:22:02.884Z",
+  "submissionTimestamp": "2026-09-30T15:23:05.126Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Easy",
+  "difficulty": "Medium",
   "tags": [
     "Array",
     "Two Pointers",
@@ -11,6 +11,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/description/",
-  "submissionId": "fzxfdk"
+  "problemUrl": "https://leetcode.com/problems/4sum/description/",
+  "submissionId": "shgf9"
 }
