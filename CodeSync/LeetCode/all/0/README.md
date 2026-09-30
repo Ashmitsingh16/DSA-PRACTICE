@@ -2,16 +2,16 @@
 
 - Platform: LeetCode
 - Language: Problem List
-- Difficulty: Easy
+- Difficulty: Medium
 - Topics: Array, Two Pointers, Sorting
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/squares-of-a-sorted-array/description/
-- Synced: 2026-09-30T15:22:02.884Z
+- Problem URL: https://leetcode.com/problems/4sum/description/
+- Synced: 2026-09-30T15:23:05.126Z
 
 ## Problem Description
 
-Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order. Example 1: Input: nums = [-4,-1,0,3,10] Output: [0,1,9,16,100] Explanation: After squaring, the array becomes [16,1,0,9,100]. After sorting, it becomes [0,1,9,16,100]. Example 2: Input: nums = [-7,-3,2,3,11] Output: [4,9,9,49,121] Constraints: 1 <= nums.length <= 104 -104 <= nums[i] <= 104 nums is sorted in non-decreasing order. Follow up: Squaring each element and sorting the new array is very trivial, could you find an O(n) solution using a different approach?
+Given an array nums of n integers, return an array of all the unique quadruplets [nums[a], nums[b], nums[c], nums[d]] such that: 0 <= a, b, c, d < n a, b, c, and d are distinct. nums[a] + nums[b] + nums[c] + nums[d] == target You may return the answer in any order. Example 1: Input: nums = [1,0,-1,0,-2,2], target = 0 Output: [[-2,-1,1,2],[-2,0,0,2],[-1,0,0,1]] Example 2: Input: nums = [2,2,2,2,2], target = 8 Output: [[2,2,2,2]] Constraints: 1 <= nums.length <= 200 -109 <= nums[i] <= 109 -109 <= target <= 109
 
 ## Explanation
 
