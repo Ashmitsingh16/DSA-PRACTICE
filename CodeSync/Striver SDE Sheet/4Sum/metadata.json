@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-09-30T15:24:54.884Z",
+  "submissionTimestamp": "2026-09-30T15:25:40.886Z",
   "runtime": "0 ms",
-  "memoryUsage": "17.29 MB",
+  "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
     "Array",
@@ -11,6 +11,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "4Sum",
-  "problemUrl": "https://leetcode.com/problems/4sum/submissions/2158299523/",
+  "problemUrl": "https://leetcode.com/problems/4sum/submissions/2158300502/",
   "submissionId": "wy1it3"
 }
