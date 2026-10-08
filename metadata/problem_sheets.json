@@ -20,5 +20,23 @@
     "StriverA2Z",
     "LoveBabbar450",
     "StriverSDE"
+  ],
+  "leetcode:3sum-closest": [
+    "TopInterview150",
+    "StriverA2Z",
+    "Blind75",
+    "Grind75",
+    "Grind169",
+    "NeetCode150",
+    "Top100Liked",
+    "LoveBabbar450",
+    "StriverSDE"
+  ],
+  "leetcode:remove-duplicates-from-sorted-array": [],
+  "leetcode:remove-duplicates-from-sorted-array-ii": [],
+  "leetcode:4sum": [
+    "StriverSDE",
+    "StriverA2Z",
+    "AlgoMaster300"
   ]
 }

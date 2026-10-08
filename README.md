@@ -10,13 +10,13 @@ CodeSync automatically tracks your progress across curated coding sheets. Here i
 | Blind 75 | 2 | 75 |
 | Grind 75 | 2 | 75 |
 | Grind 169 | 2 | 169 |
-| Neetcode 150 | 2 | 150 |
+| Neetcode 150 | 3 | 150 |
 | LeetCode 75 | 0 | 75 |
-| Top Interview 150 | 2 | 150 |
+| Top Interview 150 | 3 | 150 |
 | LeetCode 100 Most Liked | 2 | 100 |
 | SQL 50 | 0 | 50 |
-| Strivers A2Z DSA Sheet | 2 | 455 |
-| Striver SDE Sheet | 2 | 191 |
+| Strivers A2Z DSA Sheet | 4 | 455 |
+| Striver SDE Sheet | 3 | 191 |
 | Love Babbar Sheet | 2 | 445 |
 | Code Army Sheet | 0 | 726 |
 | GFG 160 | 0 | 160 |
@@ -30,7 +30,7 @@ CodeSync automatically tracks your progress across curated coding sheets. Here i
 | 6 Companies 30 Days | 0 | 90 |
 | Striver 79 | 0 | 79 |
 | Atharva Patil's 150 Sheet | 0 | 150 |
-| AlgoMaster 300 | 0 | 300 |
+| AlgoMaster 300 | 1 | 300 |
 | Arsh DSA Sheet | 0 | 287 |
 | Neetcode 250 | 0 | 250 |
 | 20 Essential DSA Patterns | 0 | 180 |
@@ -39,3 +39,19 @@ CodeSync automatically tracks your progress across curated coding sheets. Here i
 | String Mastery Sheet | 0 | 51 |
 | Graph Mastery Sheet | 0 | 29 |
 | Heap Mastery Sheet | 0 | 22 |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ashmitsingh16/DSA-PRACTICE/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ashmitsingh16/DSA-PRACTICE/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ashmitsingh16/DSA-PRACTICE/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+<!---LeetCode Topics End-->
